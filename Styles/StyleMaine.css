@@ -1,0 +1,43 @@
+.BackGr{
+    background: #e5e5e5;
+}
+.Footer{
+    margin: 0 0;
+    border: 1px solid black;
+    background: black;
+    color: white;
+    display: block;
+    margin-top: 90%;
+    clear: both;
+    padding: 10px;
+    text-align: center;
+    font-size: 10px;
+    font-family: Arial;
+    width: 100%;
+}
+.Logo{
+    text-align: center;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-weight: 900;
+    font-size: 40px;
+    margin-top: 10%;
+}
+p{
+    padding: 10px;
+    text-align: center;
+}
+.MainText{
+    font-family: Snell Roundhand, cursive;
+    font-weight: 500;
+    font-size: 15px;
+}
+.SecondText{
+    font-family: Snell Roundhand, cursive;
+    font-weight: 500;
+    font-size: 15px;
+}
+.SecondText2{
+    font-family: Snell Roundhand, cursive;
+    font-weight: 500;
+    font-size: 15px;
+}

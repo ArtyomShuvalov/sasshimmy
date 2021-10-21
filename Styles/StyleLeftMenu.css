@@ -1,0 +1,26 @@
+nav.LeftMenu{
+    color: white;
+    background-color: #E64A19;
+    width: 20%;
+    
+}
+nav.LeftMenu ul{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    position: relative;
+    
+}
+nav.LeftMenu ul li{
+    margin: 0px -7px 0 0;
+    display: block;
+    background-color: #E64A19;
+    padding: 10px;
+}
+nav.LeftMenu ul ul{
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 100%;
+    
+}

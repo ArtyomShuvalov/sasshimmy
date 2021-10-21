@@ -1,0 +1,36 @@
+.ImgMain{
+    width: 500px;
+    height: 300px;
+    margin-left: 20%;
+    transition: all 0.3s ease;
+}
+.ImgMain:active{
+    width: 550px;
+    height: 350px;
+    margin-left: 18%;
+    transition: all 0.3s ease;
+}
+.ImgSecond{
+    width: 500px;
+    height: 300px;
+    margin-left: 20%;
+    margin-top: 20px;
+    border: 5px solid #6037b8;
+    display: block;
+    transition: all 0.3s ease;
+}
+.ImgSecond:hover{
+    border: 5px solid #ae96e0;
+    width: 500px;
+    height: 300px;
+    margin-left: 20%;
+    transition: all 0.3s ease;
+}
+.ExempleWork{
+    width: 550px;
+    height: 350px;
+}
+.BestWorkers{
+    width: 450px;
+    height: 450px;
+}
